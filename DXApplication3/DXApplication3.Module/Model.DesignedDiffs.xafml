@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="DXApplication3">
+  <BOModel>
+    <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
+  </BOModel>
+  <Options>
+    <LayoutManagerOptions RequiredFieldMark="*" />
+  </Options>
+  <SchemaModules>
+    <SchemaModule Name="SchedulerModuleBase" Version="23.2.6.0" IsNewNode="True" />
+    <SchemaModule Name="SystemModule" Version="23.2.6.0" IsNewNode="True" />
+  </SchemaModules>
+  <Views>
+    <ListView Id="ApplicationUser_ListView" Caption="Users" />
+    <ListView Id="HOADON_DATHANGs_ListView">
+      <Columns>
+        <ColumnInfo Id="Sanpham.Tensp" PropertyName="Sanpham.Tensp" Index="-1" Width="191" IsNewNode="True" />
+        <ColumnInfo Id="Khachhang" Index="0" Width="113" />
+        <ColumnInfo Id="Sanpham" Index="1" />
+        <ColumnInfo Id="Khachhang.Tenkh" PropertyName="Khachhang.Tenkh" Index="2" IsNewNode="True" />
+        <ColumnInfo Id="Khachhang.Sdt" PropertyName="Khachhang.Sdt" Index="3" Width="135" IsNewNode="True" />
+        <ColumnInfo Id="Khachhang.Diachi" PropertyName="Khachhang.Diachi" Index="4" IsNewNode="True" />
+        <ColumnInfo Id="Soluong" Index="5" SortIndex="-1" SortOrder="None" />
+        <ColumnInfo Id="Nhaphang" SortIndex="0" SortOrder="Ascending" Index="6" />
+        <ColumnInfo Id="Dongia" Index="7" />
+        <ColumnInfo Id="Thanhtien" Index="8" />
+        <ColumnInfo Id="Hoadon" Removed="True" />
+      </Columns>
+    </ListView>
+    <ListView Id="SANPHAM_DATHANGs_ListView">
+      <Columns>
+        <ColumnInfo Id="Thanhtien" Width="167" />
+      </Columns>
+    </ListView>
+  </Views>
+</Application>

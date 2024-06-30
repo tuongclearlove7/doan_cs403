@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\clearlove7\.nuget\packages\;D:\dev express\Components\Offline Packages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.10.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\clearlove7\.nuget\packages\" />
+    <SourceRoot Include="D:\dev express\Components\Offline Packages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="D:\dev express\Components\Offline Packages\devexpress.data.desktop\23.2.6\build\netcoreapp3.0\DevExpress.Data.Desktop.props" Condition="Exists('D:\dev express\Components\Offline Packages\devexpress.data.desktop\23.2.6\build\netcoreapp3.0\DevExpress.Data.Desktop.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_Web_WebView2 Condition=" '$(PkgMicrosoft_Web_WebView2)' == '' ">C:\Users\clearlove7\.nuget\packages\microsoft.web.webview2\1.0.864.35</PkgMicrosoft_Web_WebView2>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\clearlove7\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.4</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgDevExpress_Data Condition=" '$(PkgDevExpress_Data)' == '' ">D:\dev express\Components\Offline Packages\devexpress.data\23.2.6</PkgDevExpress_Data>
+    <PkgDevExpress_Xpo Condition=" '$(PkgDevExpress_Xpo)' == '' ">D:\dev express\Components\Offline Packages\devexpress.xpo\23.2.6</PkgDevExpress_Xpo>
+    <PkgDevExpress_DataAccess Condition=" '$(PkgDevExpress_DataAccess)' == '' ">D:\dev express\Components\Offline Packages\devexpress.dataaccess\23.2.6</PkgDevExpress_DataAccess>
+    <PkgDevExpress_ExpressApp Condition=" '$(PkgDevExpress_ExpressApp)' == '' ">D:\dev express\Components\Offline Packages\devexpress.expressapp\23.2.6</PkgDevExpress_ExpressApp>
+    <PkgDevExpress_ExpressApp_CodeAnalysis Condition=" '$(PkgDevExpress_ExpressApp_CodeAnalysis)' == '' ">D:\dev express\Components\Offline Packages\devexpress.expressapp.codeanalysis\23.2.6</PkgDevExpress_ExpressApp_CodeAnalysis>
+    <PkgDevExpress_Utils Condition=" '$(PkgDevExpress_Utils)' == '' ">D:\dev express\Components\Offline Packages\devexpress.utils\23.2.6</PkgDevExpress_Utils>
+    <PkgDevExpress_Win_Navigation Condition=" '$(PkgDevExpress_Win_Navigation)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.navigation\23.2.6</PkgDevExpress_Win_Navigation>
+    <PkgDevExpress_Win_TreeList Condition=" '$(PkgDevExpress_Win_TreeList)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.treelist\23.2.6</PkgDevExpress_Win_TreeList>
+    <PkgDevExpress_Win_Printing Condition=" '$(PkgDevExpress_Win_Printing)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.printing\23.2.6</PkgDevExpress_Win_Printing>
+    <PkgDevExpress_Win_VerticalGrid Condition=" '$(PkgDevExpress_Win_VerticalGrid)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.verticalgrid\23.2.6</PkgDevExpress_Win_VerticalGrid>
+    <PkgDevExpress_Win_TreeMap Condition=" '$(PkgDevExpress_Win_TreeMap)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.treemap\23.2.6</PkgDevExpress_Win_TreeMap>
+    <PkgDevExpress_Win_Grid Condition=" '$(PkgDevExpress_Win_Grid)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.grid\23.2.6</PkgDevExpress_Win_Grid>
+    <PkgDevExpress_Win_RichEdit Condition=" '$(PkgDevExpress_Win_RichEdit)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.richedit\23.2.6</PkgDevExpress_Win_RichEdit>
+    <PkgDevExpress_Win_PivotGrid Condition=" '$(PkgDevExpress_Win_PivotGrid)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.pivotgrid\23.2.6</PkgDevExpress_Win_PivotGrid>
+    <PkgDevExpress_Win_Diagram Condition=" '$(PkgDevExpress_Win_Diagram)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.diagram\23.2.6</PkgDevExpress_Win_Diagram>
+    <PkgDevExpress_Win Condition=" '$(PkgDevExpress_Win)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win\23.2.6</PkgDevExpress_Win>
+    <PkgDevExpress_DataAccess_UI Condition=" '$(PkgDevExpress_DataAccess_UI)' == '' ">D:\dev express\Components\Offline Packages\devexpress.dataaccess.ui\23.2.6</PkgDevExpress_DataAccess_UI>
+    <PkgDevExpress_Win_Spreadsheet Condition=" '$(PkgDevExpress_Win_Spreadsheet)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.spreadsheet\23.2.6</PkgDevExpress_Win_Spreadsheet>
+    <PkgDevExpress_Win_SpellChecker Condition=" '$(PkgDevExpress_Win_SpellChecker)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.spellchecker\23.2.6</PkgDevExpress_Win_SpellChecker>
+    <PkgDevExpress_Win_Scheduler Condition=" '$(PkgDevExpress_Win_Scheduler)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.scheduler\23.2.6</PkgDevExpress_Win_Scheduler>
+    <PkgDevExpress_Win_SchedulerReporting Condition=" '$(PkgDevExpress_Win_SchedulerReporting)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.schedulerreporting\23.2.6</PkgDevExpress_Win_SchedulerReporting>
+    <PkgDevExpress_Win_Charts Condition=" '$(PkgDevExpress_Win_Charts)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.charts\23.2.6</PkgDevExpress_Win_Charts>
+    <PkgDevExpress_Win_Reporting Condition=" '$(PkgDevExpress_Win_Reporting)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.reporting\23.2.6</PkgDevExpress_Win_Reporting>
+    <PkgDevExpress_Win_SchedulerExtensions Condition=" '$(PkgDevExpress_Win_SchedulerExtensions)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.schedulerextensions\23.2.6</PkgDevExpress_Win_SchedulerExtensions>
+    <PkgDevExpress_Win_PdfViewer Condition=" '$(PkgDevExpress_Win_PdfViewer)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.pdfviewer\23.2.6</PkgDevExpress_Win_PdfViewer>
+    <PkgDevExpress_Win_Map Condition=" '$(PkgDevExpress_Win_Map)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.map\23.2.6</PkgDevExpress_Win_Map>
+    <PkgDevExpress_Win_Gauges Condition=" '$(PkgDevExpress_Win_Gauges)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.gauges\23.2.6</PkgDevExpress_Win_Gauges>
+    <PkgDevExpress_Win_Gantt Condition=" '$(PkgDevExpress_Win_Gantt)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.gantt\23.2.6</PkgDevExpress_Win_Gantt>
+    <PkgDevExpress_Win_Dialogs Condition=" '$(PkgDevExpress_Win_Dialogs)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.dialogs\23.2.6</PkgDevExpress_Win_Dialogs>
+    <PkgDevExpress_Win_Dashboard Condition=" '$(PkgDevExpress_Win_Dashboard)' == '' ">D:\dev express\Components\Offline Packages\devexpress.win.dashboard\23.2.6</PkgDevExpress_Win_Dashboard>
+    <PkgDevExpress_ExpressApp_Win_Design Condition=" '$(PkgDevExpress_ExpressApp_Win_Design)' == '' ">D:\dev express\Components\Offline Packages\devexpress.expressapp.win.design\23.2.6</PkgDevExpress_ExpressApp_Win_Design>
+  </PropertyGroup>
+</Project>

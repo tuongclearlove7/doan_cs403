@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="D:\dev express\Components\Offline Packages\devexpress.reporting.core\23.2.6\buildTransitive\DevExpress.Reporting.Core.targets" Condition="Exists('D:\dev express\Components\Offline Packages\devexpress.reporting.core\23.2.6\buildTransitive\DevExpress.Reporting.Core.targets')" />
+  </ImportGroup>
+</Project>

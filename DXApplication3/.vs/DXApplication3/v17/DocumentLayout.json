@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\businessobjects\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\businessobjects\\dathang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\model.designeddiffs.xafml||{4DD02038-D78C-4AD3-8B8D-13FC109B2DCD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\businessobjects\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\businessobjects\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\databaseupdate\\updater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|solutionrelative:dxapplication3.blazor.server\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.blazor.server\\images\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|solutionrelative:dxapplication3.blazor.server\\images\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|solutionrelative:dxapplication3.blazor.server\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|solutionrelative:dxapplication3.blazor.server\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\businessobjects\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\businessobjects\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{085ADF21-4690-4BA7-BB9B-4A795C496FE4}|DXApplication3.Blazor.Server\\DXApplication3.Blazor.Server.csproj|solutionrelative:dxapplication3.blazor.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\businessobjects\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\businessobjects\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\businessobjects\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\businessobjects\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|d:\\documents\\github\\asp.net-project\\dxapplication3\\dxapplication3.module\\businessobjects\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51189CB3-8843-4DB1-AA1F-521753FD8FC9}|DXApplication3.Module\\DXApplication3.Module.csproj|solutionrelative:dxapplication3.module\\businessobjects\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 196,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Module.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\Module.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\Module.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\Module.cs",
+              "RelativeToolTip": "DXApplication3.Module\\Module.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwC8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:13:16.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Updater.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\DatabaseUpdate\\Updater.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\DatabaseUpdate\\Updater.cs",
+              "RelativeToolTip": "DXApplication3.Module\\DatabaseUpdate\\Updater.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:12:54.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\Images\\ReadMe.txt",
+              "RelativeDocumentMoniker": "DXApplication3.Blazor.Server\\Images\\ReadMe.txt",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\Images\\ReadMe.txt",
+              "RelativeToolTip": "DXApplication3.Blazor.Server\\Images\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-30T15:08:29.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "DXApplication3.Blazor.Server\\Pages\\_Host.cshtml",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "DXApplication3.Blazor.Server\\Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:08:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\_Imports.razor",
+              "RelativeDocumentMoniker": "DXApplication3.Blazor.Server\\_Imports.razor",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\_Imports.razor",
+              "RelativeToolTip": "DXApplication3.Blazor.Server\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:08:02.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\App.razor",
+              "RelativeDocumentMoniker": "DXApplication3.Blazor.Server\\App.razor",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\App.razor",
+              "RelativeToolTip": "DXApplication3.Blazor.Server\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T15:07:53.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "DXApplication3.Blazor.Server\\appsettings.json",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Blazor.Server\\appsettings.json",
+              "RelativeToolTip": "DXApplication3.Blazor.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T13:24:17.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NHAPHANG.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\NHAPHANG.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\BusinessObjects\\NHAPHANG.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\NHAPHANG.cs",
+              "RelativeToolTip": "DXApplication3.Module\\BusinessObjects\\NHAPHANG.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T02:58:13.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NHACUNGCAP.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\NHACUNGCAP.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\BusinessObjects\\NHACUNGCAP.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\NHACUNGCAP.cs",
+              "RelativeToolTip": "DXApplication3.Module\\BusinessObjects\\NHACUNGCAP.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T02:56:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model.DesignedDiffs.xafml",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\Model.DesignedDiffs.xafml",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\Model.DesignedDiffs.xafml",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\Model.DesignedDiffs.xafml",
+              "RelativeToolTip": "DXApplication3.Module\\Model.DesignedDiffs.xafml",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAR9SURBVDhPrVTLbxtFHP5mH17bazt2nNhNk7QlaYSjSn2IAkIVXFohEBL/QA8gzj3DBfWKCioSUo8gDkgcUIEWJESJRCFt2ibpI2nSlrSO07iOvY7f9WPXszszjNOHVOXaT5qdXWn2m2\u002B\u002B3/cbvFQIIZ6\u002BvTyQp/M2nDgxEXp1PDAK1k2BdydAlBaUwB2o\u002BspKurl55swqf7r0BbxAODYY1o6kkqYY8JKfnty1f9\u002Bkfoi49iEwJyUJm9DMRS788zeW7FuffbW2QgOi\u002BeBqtVvKdJ4flaQSJgEhfgiYHx4cjX9x/LUxtr/9BhkqfEDMdooQHiLSmp4czyWwW3o\u002B3w5eue2Pnm3vEJmzJ1cKC\u002BeLDdfhdiVrM9I4dcwntMAhuO5R3bXf9oOmWB\u002BNib22n\u002ByFrg4RQnwE3TqQW2dYrXt8PSA/XzFqxNTzGjMvaV7w79xC6/qX710pEvH10W8EpQfheSNgblQWyhQKNAQ8wuOUeEmKx0kFdxsUjyIEtZgCO6xyZoARQaiiaDVd9W2wjnYnd53\u002BReqfv54Najyhqj0dYqvynFI0pC2WFkIxOYLy\u002BB5kyCbs0fsgQyXoYQZV1QHec0ta0QV1SqRYT6vT6iepvtOKAlWRD0/61HIBq6vjnhjBon4Yt81jSJtHUfKNg\u002BqGrCKHIqgstgdFIaBNoLrmqrkbjpqZaXnk6vEUC/mAaFglTNWQpSaW9ElkRt9FbedboJEREFnD3lB5BbpvHv7IFMI7ZqDpdRSXHWRnXWyusAbx1Dky\u002B9G\u002BtspcQ\u002BpW1n3DmNv5PkqHPwZCUanGAJgmO2ArEZKVyfRQCJaF2/lTxvN7FBYs1HNSLdErfZHYlJyNMuPCZZyjyxXUqIpyrYNum4JwASn6yZDchHhoFgrI3VjGo2sZNC0XtCOtZFx6SuhgLJFT/PHEr4oReCjDYSvcheI0YZcttAtZ2NWibJS2VOVJr0qopm/CWvgHpbuz6FTy8GwXXG6qa0YlGokvDA0MX1LfnNyT7/NrQV144RbXQnkyaBSCo3JxC9yjve3BXVuSLcJauoxq5o48bgnmgC2McJFxG5bfiM1GpDBR1S6o525miu8cSC0ORU3ucJLYYH2D\u002BWhK7UWIu5Q49TJq6/eQm5\u002BSivNbx9P8Cjfjtuc3q7UQ\u002Bs8bAzu\u002BrYCdP3fqgqP2vJ7LWM7oYCwzNjF514qMt9dI8oCQ/8koESFV9oicWqGXUgiZPV1X63t2DVzbNWyeXr64/vP8byv3ctc3XLfjYouw6bjCajr2rWylvGw1rP7UERlwDMgR4p6ruO06Oo2iJGPw6VohEY9NT\u002Bwe\u002BW72wszMg4VHG49LbadH1sMWYQ/WY1ukrUq3VK1WDMNvxeMJ7gsEA13qhrutmuE0NpkZ8N\u002BP9oemDEP8UsmsXpz/d77arLV6/fAczwmfwaOOV/hvLjc8svthJJ70hKJGnXY9CKeRD6rsrO7zfiyX16cv/37OcWl32w29jfAZ1pauVsP98ftjkwdzOqPaQFD5YenyHz/dnp5asdLpbURPAPwPRwFkXZLSwpoAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-06-30T02:05:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\BusinessObjects\\KHACHHANG.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\KHACHHANG.cs",
+              "RelativeToolTip": "DXApplication3.Module\\BusinessObjects\\KHACHHANG.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwCYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T01:48:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HOADON.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\HOADON.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\BusinessObjects\\HOADON.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\HOADON.cs",
+              "RelativeToolTip": "DXApplication3.Module\\BusinessObjects\\HOADON.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwDwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:59:16.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DATHANG.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\DATHANG.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\BusinessObjects\\DATHANG.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\DATHANG.cs",
+              "RelativeToolTip": "DXApplication3.Module\\BusinessObjects\\DATHANG.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwvzsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:20:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SANPHAM.cs",
+              "DocumentMoniker": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\SANPHAM.cs",
+              "RelativeDocumentMoniker": "DXApplication3.Module\\BusinessObjects\\SANPHAM.cs",
+              "ToolTip": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\BusinessObjects\\SANPHAM.cs",
+              "RelativeToolTip": "DXApplication3.Module\\BusinessObjects\\SANPHAM.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T09:14:57.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Win\\DXApplication3.Win.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\DXApplication3.Module.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\DXApplication3.Module.csproj",
+        "projectName": "DXApplication3.Module",
+        "projectPath": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\DXApplication3.Module.csproj",
+        "packagesPath": "C:\\Users\\clearlove7\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\dev express\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\clearlove7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\dev express\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Chart": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.ConditionalAppearance": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Dashboards": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Objects": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Office": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.ReportsV2": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Scheduler": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Security.Xpo": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Validation": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.Persistent.BaseImpl.Xpo": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.34.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Win\\DXApplication3.Win.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Win\\DXApplication3.Win.csproj",
+        "projectName": "DXApplication3.Win",
+        "projectPath": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Win\\DXApplication3.Win.csproj",
+        "packagesPath": "C:\\Users\\clearlove7\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Win\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\dev express\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\clearlove7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\dev express\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\DXApplication3.Module.csproj": {
+                "projectPath": "D:\\Documents\\GitHub\\ASP.net-project\\DXApplication3\\DXApplication3.Module\\DXApplication3.Module.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "DevExpress.ExpressApp": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Chart.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.CodeAnalysis": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Dashboards.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.FileAttachment.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Office.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.ReportsV2.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Scheduler.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Security.Xpo": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Validation.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Win": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Win.Design": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.ExpressApp.Xpo": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.Persistent.Base": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.Persistent.BaseImpl.Xpo": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.RichEdit.Export": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            },
+            "DevExpress.Win.Design": {
+              "target": "Package",
+              "version": "[23.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

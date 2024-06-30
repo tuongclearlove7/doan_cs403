@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)system.text.json\6.0.0\build\System.Text.Json.targets" Condition="Exists('$(NuGetPackageRoot)system.text.json\6.0.0\build\System.Text.Json.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.apidescription.server\6.0.5\build\Microsoft.Extensions.ApiDescription.Server.targets')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.logging.abstractions\6.0.4\buildTransitive\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.targets')" />
+    <Import Project="D:\dev express\Components\Offline Packages\devexpress.reporting.core\23.2.6\buildTransitive\DevExpress.Reporting.Core.targets" Condition="Exists('D:\dev express\Components\Offline Packages\devexpress.reporting.core\23.2.6\buildTransitive\DevExpress.Reporting.Core.targets')" />
+    <Import Project="D:\dev express\Components\Offline Packages\devexpress.blazor\23.2.6\buildTransitive\net5.0\DevExpress.Blazor.targets" Condition="Exists('D:\dev express\Components\Offline Packages\devexpress.blazor\23.2.6\buildTransitive\net5.0\DevExpress.Blazor.targets')" />
+  </ImportGroup>
+</Project>
