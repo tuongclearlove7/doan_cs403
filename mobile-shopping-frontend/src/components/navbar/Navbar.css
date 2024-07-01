@@ -1,0 +1,28 @@
+.navbar {
+  width: 100%;
+  padding: 0 50px;
+  height: 80px;
+  background-color: #57be00;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+}
+
+.underline{
+
+  text-decoration: underline;
+}
+
+.links {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.cartIcon {
+  position: relative;
+  top: 7px;
+}

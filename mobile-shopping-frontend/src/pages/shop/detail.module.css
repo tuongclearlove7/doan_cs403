@@ -1,0 +1,34 @@
+.container_detail{
+
+    margin: 0 auto;
+
+    padding-top: 70px;
+}
+
+.margin_bottom_25px{
+
+    margin-bottom: 25px;
+}
+
+.margin_bottom_15px{
+
+    margin-bottom: 15px;
+}
+
+.margin_left_100px{
+
+    margin-left: 100px;
+}
+
+.width40{
+    width: 60%;
+}
+
+.fontsize15px{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.fontsize30px{
+    font-size: 30px;
+}
